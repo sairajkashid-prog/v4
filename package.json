@@ -7,16 +7,14 @@
     "type": "git",
     "url": "https://github.com/bchiang7/v4"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "engines": {
-    "node": ">=20.0.0"
+    "node": "16.x"
   },
   "scripts": {
-    "build": "NODE_OPTIONS='--no-node-snapshot' gatsby build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
