@@ -1,15 +1,14 @@
 ---
-date: '2'
-title: 'Spotify Profile'
+date: '2026-04-15'
+title: 'Final Year Engineering Seminar Project'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/sairajkashid-prog'
+external: 'https://v4-two-sepia.vercel.app'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - FastAPI
+  - Python
+  - LangChain
+  - Multi-Agent Systems
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Designed and architected a robust **Multi-Agent Search Engine using FastAPI** for the final-year seminar track at **MIT World Peace University**. The system manages specialized distributed background agents layer-by-layer to fetch, parse, and optimize response rankings dynamically, providing a highly scalable and modern search pipeline.
