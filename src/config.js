@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'sairajkashid@example.com', // Aap apni sahi email id yahan daal sakte hain
+
+  siteMetadata: {
+    title: 'Sairaj Sandip Kashid',
+    description: 'Sairaj Sandip Kashid is a final-year engineering student at MIT World Peace University, specializing in backend architectures, distributed systems, and intelligent multi-agent search systems.',
+    siteUrl: 'https://v4-two-sepia.vercel.app',
+    image: '/og.png',
+    twitterUsername: '@sairajkashid',
+  },
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://github.com/sairajkashid-prog',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://linkedin.com/in/sairaj-kashid', // Aap apna real link yahan daal sakte hain
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Instagram',
+      url: 'https://instagram.com/sairaj',
     },
   ],
 
@@ -52,7 +52,7 @@ module.exports = {
   srConfig: (delay = 200, viewFactor = 0.25) => ({
     origin: 'bottom',
     distance: '20px',
-    duration: 500,
+    duration: '500',
     delay,
     rotate: { x: 0, y: 0, z: 0 },
     opacity: 0,
