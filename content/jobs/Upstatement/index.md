@@ -1,9 +1,9 @@
 ---
 date: '2026-04-01'
 title: 'Engineering Student & Tech Practitioner'
-company: 'MIT WPU'
+college: 'MIT WPU'
 location: 'Pune, MH'
-range: '2022 - 2026'
+year: '2023 - 2027'
 url: 'https://github.com/sairajkashid-prog'
 ---
 
