@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Final Year Seminar Project'
+cover: './demo.png'
+github: 'https://github.com/sairajkashid-prog'
+external: 'https://v4-two-sepia.vercel.app'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - FastAPI
+  - Python
+  - Multi-Agent Systems
+  - LangChain
+  - Vector DB
+showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Developed an intelligent **Multi-Agent Search Engine using FastAPI** as part of the final-year engineering curriculum at **MIT World Peace University**. The system orchestrates specialized backend agents layer-by-layer to fetch, parse, rank, and synthesize distributed information, delivering optimized response accurate execution.
