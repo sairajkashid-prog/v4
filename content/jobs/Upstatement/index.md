@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2026-04-01'
+title: 'Engineering Student & Tech Practitioner'
+company: 'MIT WPU'
+location: 'Pune, MH'
+range: '2022 - 2026'
+url: 'https://github.com/sairajkashid-prog'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Enrolled as a final-year engineering student at **MIT World Peace University**, actively balancing structured academics with real-world system architecture design.
+- Developing an intelligent distributed infrastructure for a final-year engineering seminar project—a **Multi-Agent Search Engine using FastAPI**.
+- Actively preparing for technical interview pipelines and competitive engineering hiring tracks using **takeUforward** and daily practice on **LeetCode**.
+- Participated in multiple campus recruitment assessments, technical mock processes, and code drives including **PTC Software**, **Sibros Technologies**, **Tata TechPulse**, and **HackWithInfy**.
